@@ -1,0 +1,41 @@
+commit 5a9ef38518e36c51118abb7a8fe2da1279fe3ccc
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Thu Dec 7 02:07:18 2017 -0500
+
+    final version , MY PARTNER IS JOHN KIM , HIS ID NUMBER IS 260732804
+
+commit f89f3e1321a05d5c1babbacedc1382a61f93d795
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Thu Dec 7 01:58:37 2017 -0500
+
+    properly closed all the fopens in the busy wait loop
+
+commit 67366af365d5461b1043338cec40597be3f3471d
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Thu Dec 7 00:18:59 2017 -0500
+
+    added comments : comments include my name, my id number, partner's name and partner's id number
+
+commit d09a4e4a2695d23f0542120bbccddb04d913aa39
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Thu Dec 7 00:14:26 2017 -0500
+
+    finalized everything with a partner: partner: JOHN KIM , ID NUMBER : 260732804
+
+commit e7f4e5282f866b1934b62f50993f6d1603a2683b
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Wed Dec 6 23:42:27 2017 -0500
+
+    added while loop so that the program runs until it has printed out everthing, when it ends , changes turn.txt back to 0
+
+commit 20bfbfcda25cdba855ee2cdf06145d295256083a
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Tue Dec 5 16:23:12 2017 -0500
+
+    added a line that changes the value of TURN.TXT back to  0
+
+commit 645f9af9309870100ec6007f95b968ee21dc2d12
+Author: Minhwa SONG <msong9@ds2.CS.McGill.CA>
+Date:   Mon Dec 4 10:24:40 2017 -0500
+
+    created Conumser.c, consumer void method, busy while loop and printf
